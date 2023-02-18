@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/sellsy",
+    "name": "relaypilot/sellsy-auth",
     "description": "Sellsy OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
@@ -11,12 +11,7 @@
     ],
     "authors": [
         {
-            "name": "13\u00b0",
-            "email": "dev@13-grad.com"
-        },
-        {
-            "name": "Anton Komarev",
-            "email": "ell@cybercog.su"
+            "name": "relaypilot"
         }
     ],
     "support": {
