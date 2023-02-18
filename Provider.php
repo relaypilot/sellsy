@@ -11,7 +11,7 @@ class Provider extends AbstractProvider
     public const IDENTIFIER = 'SELLSY';
 
     /**
-     * {@inheritdoc}
+     * {@inheritdoc} 
      */
     protected $scopes = [
         'comments.read',
