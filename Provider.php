@@ -11,6 +11,16 @@ class Provider extends AbstractProvider
     public const IDENTIFIER = 'SELLSY';
 
     /**
+     * {@inheritdoc}
+     */
+    protected $usesPKCE = true;
+
+    /**
+     * {@inheritdoc}
+     */
+    protected $scopeSeparator = ' ';
+
+    /**
      * {@inheritdoc} 
      */
     protected $scopes = [
