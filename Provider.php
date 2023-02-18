@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\Sellsy;
+namespace Relaypilot\Sellsy;
 
 use GuzzleHttp\RequestOptions;
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;

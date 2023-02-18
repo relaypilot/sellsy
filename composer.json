@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/sellsy",
+    "name": "relaypilot/sellsy",
     "description": "Sellsy OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SocialiteProviders\\Sellsy\\": ""
+            "Relaypilot\\Sellsy\\": ""
         }
     }
 }

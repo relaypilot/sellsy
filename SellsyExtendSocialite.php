@@ -1,6 +1,6 @@
 <?php
 
-namespace SocialiteProviders\Sellsy;
+namespace Relaypilot\Sellsy;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
 
