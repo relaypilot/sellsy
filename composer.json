@@ -1,0 +1,36 @@
+{
+    "name": "socialiteproviders/sellsy",
+    "description": "Sellsy OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "oauth",
+        "provider",
+        "socialite",
+        "sellsy"
+    ],
+    "authors": [
+        {
+            "name": "13\u00b0",
+            "email": "dev@13-grad.com"
+        },
+        {
+            "name": "Anton Komarev",
+            "email": "ell@cybercog.su"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/socialiteproviders/providers/issues",
+        "source": "https://github.com/socialiteproviders/providers"
+    },
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-json": "*",
+        "socialiteproviders/manager": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\Sellsy\\": ""
+        }
+    }
+}
