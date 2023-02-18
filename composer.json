@@ -1,5 +1,5 @@
 {
-    "name": "relaypilot/sellsy-auth",
+    "name": "socialiteproviders/sellsy",
     "description": "Sellsy OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
